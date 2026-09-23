@@ -18,7 +18,13 @@ No contribution is required merely to apply unless governance later establishes 
 
 ## Approval
 
+Applications are handled under the Creators Commons and overarching Metachrysalis Commons governance frameworks.
+
 Membership begins upon entry in `MEMBERS.md` or another effective date recorded by the Commons.
+
+A person joining the Creators Commons becomes a **Participating Member** and also receives the applicable Players Commons participation rights.
+
+Creators Commons membership does not automatically confer Voting Membership.
 
 ## Membership Is Not Purchased
 
