@@ -8,6 +8,18 @@ Creators can contribute their own work to the Commons while retaining ownership.
 
 Registered works may participate in Creator Compensation when incorporated into compensated workshops, products, services, collections, adaptations, or other bundles.
 
+## Participation and Governance
+
+Creators Commons members are **Participating Members**.
+
+Creators may participate meaningfully in discussions, proposals, consultations, working groups, compensation-policy development, and other aspects of Commons life.
+
+Creators Commons membership does not automatically confer a formal vote.
+
+Formal governance votes are held by the Metachrysalis Voting Membership.
+
+See `GOVERNANCE.md` and the root Metachrysalis Commons governance framework.
+
 ## Key Documents
 
 `LICENSE.md` — copyright permissions.
