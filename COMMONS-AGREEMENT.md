@@ -10,7 +10,13 @@ A Creator may:
 * register adaptations;
 * choose a Creator Compensation Weight for contributed works;
 * participate in applicable Creator Participation Pools; and
-* participate in Creators Commons governance.
+* participate in Creators Commons governance discussions, consultations, proposals, working groups, and other participatory processes.
+
+Creators Commons membership is **Participating Membership.**
+
+These participation rights provide meaningful opportunities to influence the Commons but do not by themselves confer a formal governance vote.
+
+Formal Voting Membership is separately established under the Metachrysalis Commons governance framework.
 
 ## Ownership
 
